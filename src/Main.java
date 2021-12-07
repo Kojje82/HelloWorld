@@ -3,6 +3,7 @@ public class Main {
         System.out.println("A fresh start...or?");
         System.out.println("What an great idea to write something new.");
 
+
     }
 
 }
