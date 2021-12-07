@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World! We still need to find a new World! Opps it is a few light years away," +
-                " let´s construct a rocket. Ohh we are out of fuel and it is freezing out here.");
+        System.out.println("A fresh start...");
     }
 
 }
